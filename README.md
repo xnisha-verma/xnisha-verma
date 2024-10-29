@@ -1,3 +1,3 @@
-- 👋 Hey, I am undegrade student in Computer Science majaor.
+- 👋 Hey, I am undegrade student of engineering of Computer Science.
 - 👀 I’m interested in contributing to open source in DevOps field.
 - 🌱 I’m currently learning Java.
