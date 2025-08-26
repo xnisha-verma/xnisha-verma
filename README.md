@@ -12,6 +12,6 @@
 <br>
 <h2 align="left">👨‍💻My Tech Stack</h2>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,c,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=java,js,reactjs,html,css,c,tailwindcss" />
 </div> <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xnisha-verma&label=Profile%20views&color=0e75b6&style=flat" alt="xnisha-verma" /> </p>
