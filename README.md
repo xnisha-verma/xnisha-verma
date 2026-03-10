@@ -1,7 +1,7 @@
 <h2 align="left">Hey! I'm Nisha</h2>
 <h3 align="left">I’m passionate about learning and contributing to open source projects.</h3><br>
 
-- 🌱 I’m currently learning **Javascript.**
+- 🌱 I’m currently learning **Backend Development in Java**.
   <br>
 <h2 align="left">Connect with me</h2>
 <p align="left">
