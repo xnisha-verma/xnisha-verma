@@ -9,13 +9,13 @@
 
 <br>
 
-## 🏅 Holopin Badges
+##  Holopin Badges
 
 [![An image of @xnishaverma's Holopin badges](https://boards.holopin.io/xnishaverma)](https://www.holopin.io/@xnishaverma)
 
 <br>
 
-## 🤝 Connect with me
+##  Connect with me
 
 <p align="left">
   <a href="https://twitter.com/v_nishaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v_nishaaa" height="30" width="40" /></a>
@@ -24,7 +24,7 @@
 
 <br>
 
-## 👩‍💻 Tech Stack
+##  Tech Stack
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,js,react,html,css,c,tailwindcss" />
