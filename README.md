@@ -1,11 +1,11 @@
-<h2 align="left">Hey! I'm Nisha 👋</h2>
+<h2 align="left">Hey! I'm Nisha </h2>
 <h3 align="left">Passionate about backend development and open source contribution.</h3>
 
 <br>
 
-- 🌱 Currently learning **Backend Development in Java**
-- 💬 Ask me about **Spring Boot, REST APIs, Docker**
-- 🎃 Hacktoberfest contributor — **2024 & 2025**
+-  Currently learning **Backend Development in Java**
+-  Ask me about **Spring Boot, REST APIs, Docker**
+-  Hacktoberfest contributor — **2024 & 2025**
 
 <br>
 
