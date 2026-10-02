@@ -1,5 +1,5 @@
 <h2 align="left">Hey there! 👋 I'm Nisha</h2>
-<h3 align="left">Backend developer passionate about building scalable APIs, learning modern Java ecosystems, and contributing to open source.</h3>
+<h3 align="left">Backend developer passionate about building scalable APIs and learning modern Java ecosystems.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=xnisha-verma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,11 +10,6 @@
 - Open source enthusiast with a love for clean, maintainable backend solutions
 - Hacktoberfest contributor: <strong>2024 & 2025</strong>
 
-<br>
-
-## 🚀 About Me
-
-I'm a developer who enjoys turning ideas into reliable backend systems and learning by building. My focus is on Java-based backend development, API design, and cloud-ready application architecture. I enjoy exploring tools that help teams ship faster while keeping code quality high.
 
 <br>
 
